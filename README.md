@@ -1,7 +1,7 @@
 # Sabancı University Email Analysis Project 📧
 ## About the Project 🚀
 
-The Sabancı University Email Analysis Project is a comprehensive exploration of personal email communication patterns. This initiative seeks to gain insights into various aspects of email interactions, including the identification of frequent communication partners, the analysis of commonly used keywords, and an evaluation of the sentiment associated with emails—whether they convey positive, negative, or neutral tones and more.
+The Sabancı University Email Analysis Project is a comprehensive exploration of personal email communication patterns. This initiative seeks to gain insights into various aspects of email interactions.
 ## Motivation 💡
 
 The motivation behind this project stems from the curiosity about daily email communication patterns. The desire to understand key aspects such as the most frequent communication partners, commonly used keywords, and the sentiment of emails—whether they are positive, negative, or neutral—prompted the initiation of this analysis.
