@@ -8,7 +8,8 @@ The motivation behind this project stems from the curiosity about daily email co
 
 ## Data Source 🗃️
 
-The data for this project was obtained through Google Takeout, allowing the import of email content in mbox format. Subsequently, the mbox data was extracted and transformed into JSON format to enhance usability.
+The data for this project was obtained through Google Takeout, allowing the import of email content in mbox format. To facilitate the usability of the mbox data, a custom Python script was developed. This script efficiently converts mbox-formatted data into a more user-friendly JSON format. The script addresses the intricacies of the mbox structure, extracting relevant information such as subject, from, to, date, and content fields for each email, and organizes it into a structured JSON representation.
+
 
 ## Data Analysis Techniques 📊
 
